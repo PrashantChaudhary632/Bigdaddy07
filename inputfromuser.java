@@ -9,6 +9,7 @@ class inputfromuser{
 			int secondnum=scn.nextInt();
 			int sum=firstnum+secondnum;
 		System.out.println("Sum="+sum);
+		//hello
 }
 }
 		
